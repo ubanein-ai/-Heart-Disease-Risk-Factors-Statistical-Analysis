@@ -1,6 +1,6 @@
-# ❤️ Heart Disease Risk Factors & Statistical Analysis
+#  Heart Disease Risk Factors & Statistical Analysis
 
-## 📌 Overview
+##  Overview
 
 This project focuses on the **statistical analysis of heart disease risk factors** using real-world healthcare data. The goal is to identify key variables that contribute to heart disease and gain meaningful insights through **data analysis, visualization, and statistical methods**.
 
@@ -8,18 +8,18 @@ The project applies **data science and statistical inference techniques** to exp
 
 ---
 
-## 🧠 Features
+##  Features
 
-* ✅ Exploratory Data Analysis (EDA) of heart disease dataset
-* ✅ Identification of major risk factors (age, cholesterol, blood pressure, etc.)
-* ✅ Data visualization using graphs and plots
-* ✅ Correlation analysis between variables
-* ✅ Statistical insights for health risk assessment
-* ✅ Clean and structured data preprocessing
+*  Exploratory Data Analysis (EDA) of heart disease dataset
+*  Identification of major risk factors (age, cholesterol, blood pressure, etc.)
+*  Data visualization using graphs and plots
+*  Correlation analysis between variables
+*  Statistical insights for health risk assessment
+*  Clean and structured data preprocessing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming Language:** Python
 * **Libraries:** Pandas, NumPy
@@ -29,7 +29,7 @@ The project applies **data science and statistical inference techniques** to exp
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Heart-Disease-Statistical-Analysis/
@@ -43,7 +43,7 @@ Heart-Disease-Statistical-Analysis/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Open the Jupyter Notebook:
 
@@ -81,7 +81,7 @@ Heart Disease Risk Factors & Statistical Analysis.ipynb
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset includes medical attributes such as:
 
@@ -97,7 +97,7 @@ These features are used to analyze patterns and determine their impact on heart 
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Identifies the most influential risk factors for heart disease
 * Reveals correlations between medical attributes
@@ -106,7 +106,7 @@ These features are used to analyze patterns and determine their impact on heart 
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 1. Data Cleaning & Preprocessing
 2. Exploratory Data Analysis (EDA)
@@ -116,7 +116,7 @@ These features are used to analyze patterns and determine their impact on heart 
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * 🔹 Apply machine learning models for prediction
 * 🔹 Build a risk prediction system
